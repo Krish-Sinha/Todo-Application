@@ -1,0 +1,15 @@
+.heading{
+    text-align: center;
+        font-size: 50px;
+            background: -webkit-linear-gradient(60deg,
+                    #E21143,
+                    #FFB03A);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.input{
+    text-align: center;
+    
+}
